@@ -53,7 +53,7 @@ This week helped me develop a better understanding of how web development is app
 
 I also improved my ability to handle technical challenges independently. During the practical, I encountered issues related to file setup, linking styles, and applying changes correctly. Working through these step by step helped me become more confident in troubleshooting and understanding how systems work rather than relying on trial and error.
 
-Another key learning point was the importance of combining different learning methods. Using documentation, tutorials, hands-on practice, and guidance tools like ChatGPT made it easier to understand concepts and apply them effectively. This approach made the learning process more efficient and practical.
+Another key learning point was the importance of combining different learning methods. Using documentation, tutorials, hands on practice, and guidance tools like ChatGPT made it easier to understand concepts and apply them effectively. This approach made the learning process more efficient and practical.
 
 In addition, using tools like the browser inspector showed me how developers can work more efficiently by testing changes before applying them permanently. This reduces mistakes and helps produce better results in less time.
 

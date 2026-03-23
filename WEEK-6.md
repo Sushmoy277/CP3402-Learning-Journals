@@ -20,11 +20,7 @@ Additionally, we integrated GitHub and Trello with Slack. This allowed updates l
 
 ## Estimated Hours
 
-- Setting up tools: 2–3 hours  
-- Team discussion & planning: 2 hours  
-- Learning GitHub & integrations: 1–2 hours  
-
-**Total: 
+ 
 5–6 hours**
 
 

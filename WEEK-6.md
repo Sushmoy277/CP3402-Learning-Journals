@@ -21,7 +21,7 @@ Additionally, we integrated GitHub and Trello with Slack. This allowed updates l
 ## Estimated Hours
 
  
-5–6 hours**
+5–6 hours
 
 
 

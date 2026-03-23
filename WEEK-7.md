@@ -43,7 +43,7 @@ I realised that writing clean and organised code is very important in the indust
 
 I also learned that logic like conditions and loops is very important for creating personalised experiences for users. For example, showing different options based on a student’s budget is similar to how real systems work.
 
-I also faced some problems while setting up PHP and running the server, but solving them helped me become more confident.
+I faced a problem while trying to run my PHP files on localhost. At first, when I tried to start the server, it showed an error saying that the PHP command was not found. I realised that PHP was not properly installed on my system. To solve this, I installed PHP using Homebrew and then checked it using the php -v command to make sure it was working. After that, I was able to run the server using php -S localhost:8000 and open my website in the browser. This helped me understand how to set up a local development environment properly and troubleshoot basic setup issues
 
 From this week, I understood that I learn better by doing the work myself instead of only reading. Writing and testing the code helped me understand everything more clearly.
 

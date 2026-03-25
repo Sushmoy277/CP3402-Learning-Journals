@@ -26,7 +26,7 @@ Both topics were from the same subject to make the comparison fair.
    - my understanding  
    - how tired I felt  
 ## 4. Results
-- During the 1-hour continuous study, I started losing focus after some time.  
+- During the 1 hour continuous study, I started losing focus after some time.  
 - I felt more tired and distracted towards the end.  
 - During the Pomodoro sessions, I stayed focused in each 25-minute session.  
 - The short breaks helped me feel refreshed and continue studying better.  

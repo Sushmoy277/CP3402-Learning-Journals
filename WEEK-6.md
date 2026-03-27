@@ -1,57 +1,70 @@
 # Week 6 – Group Setup
-
 ## Learning Activities & Resources
 
-This week I focused on setting up all the teamwork tools required for our group project. I connected with my teammates on LinkedIn and joined our Discord server to communicate with the team. We used Discord to share updates, discuss ideas, and stay organised.
+This week I worked on setting up all the teamwork tools for our group project. First, I connected with my teammates on LinkedIn and joined our Discord server. We used Discord to talk, share updates, and stay organised as a team.
 
-I joined our GitHub repository using the GitHub Classroom link and made my first commit. This helped me understand how version control works when multiple people are working on the same project.
+I joined our GitHub repository using the GitHub Classroom link and made my first commit. This helped me understand how version control works when many people are working on the same project.
 
-We also created and organised our Trello board for project planning. I contributed by adding tasks, assigning responsibilities, and helping to complete the group agreement with my team. This helped us clearly understand our roles and expectations.
+We also created a Trello board to plan our project. I helped by adding tasks, assigning them to team members, and working on the group agreement. This made it clear what each person needs to do.
 
-Additionally, we integrated GitHub and Trello with Discord. This allowed updates like commits and task changes to appear in Discord, making communication faster and more efficient.
+We connected GitHub and Trello with Discord. Because of this, updates like commits and task changes were automatically shown in Discord. This made communication faster and easier.
+
+I also used ChatGPT a little bit to understand some small things and fix simple problems. Some prompts I used were:
+- “How to connect GitHub with Trello”
+- “What is version control in simple words”
+
+This helped me when I got stuck.
 
 ### Resources Used
-- https://github.com
-- https://trello.com/guide
-- https://docs.github.com/en/get-started/start-your-journey
-- https://discord.gg/QmBaWAKK
 
-
-
-## Estimated Hours  
+- https://github.com  
+- https://trello.com/guide  
+- https://docs.github.com/en/get-started/start-your-journey  
+- https://discord.gg/QmBaWAKK  
+- YouTube videos on GitHub and Trello basics  
+- ChatGPT
+## Estimated Hours
 
 **Total: ~5–6 hours**
 
 ## Content Insights
 
-This week helped me understand how teamwork tools are used in real world development.
+This week helped me understand how teamwork tools are used in real life projects.
 
-- GitHub is important for version control and collaboration between multiple developers  
-- Trello helps organise tasks and manage project progress  
-- Discord improves communication and keeps everyone updated  
-- Integrating tools (GitHub + Trello + Discord) creates a smooth and efficient workflow  
+- GitHub is used for version control and working together  
+- Trello helps organise tasks and track progress  
+- Discord helps with communication and quick updates  
+- Connecting all tools together makes the workflow smooth  
 
-Breaking the project into smaller tasks and assigning them to team members made the workflow more organised and easier to manage.
+From videos and websites, I learned:
+- How to create and push a commit in GitHub  
+- Meaning of basic terms like commit, repository, and version control  
+- How Trello boards work (To Do, Doing, Done)  
+- How to assign tasks to team members  
+- How integrations save time by sending automatic updates  
 
+Breaking the project into small tasks made everything easier to manage.
 
+## Career / Employability / Learning Insights
 
-## Career/Employability/Learning Insights
+This week showed me that working in a team is very different from working alone. Before, I used to do everything by myself, but now I understand how important teamwork is.
 
-This week made me realise that working in a team project is very different from working individually. In previous subjects, I mostly completed tasks on my own, but this week showed me how important coordination, communication, and responsibility are in a team environment.
+I learned that GitHub is not just for saving code, but also for working together. It helps track everyone’s work and shows who did what.
 
-I understood that GitHub is not just for storing code, but for managing collaboration. Every commit creates a record of work, which helps track contributions and ensures accountability. This is important in real workplaces where multiple developers work together on the same project.
+Trello helped me understand how real projects are planned. Tasks are clearly organised and everyone knows their responsibility. This is similar to how companies use Agile methods.
 
-Using Trello helped me understand how real projects are planned and managed. Instead of working randomly, tasks are clearly defined, assigned, and tracked. This reflects how Agile workflows are used in industry, where planning and progress tracking are essential.
+Using Discord showed me that communication is very important. When everyone shares updates, it reduces confusion and helps the team stay on track.
 
-Communication through Discord also showed me how important clear and consistent communication is. I noticed that when team members share updates regularly, it reduces confusion and helps everyone stay on the same page. In a professional environment, this is a critical skill.
-
-Another important insight for me was that being a good team member is not only about technical skills, but also about:
-
-- Being active in team discussions  
-- Taking responsibility for assigned tasks  
+I also learned that being a good team member is not only about coding skills. It also includes:
+- Being active in discussions  
+- Completing tasks on time  
 - Managing time properly  
-- Supporting teammates when needed  
+- Helping teammates  
 
-From my personal learning perspective, I found that I understand tools better when I use them first and then learn more about them afterwards. For example, after making my first GitHub commit and using Trello, I felt more confident and then explored how to use these tools more effectively.
+Personally, I learned that I understand better when I try things myself first and then learn more about them. ChatGPT helped me with small doubts, but I practiced everything on my own to understand properly.
 
-Overall, this week helped me develop both technical and professional skills. It gave me a better understanding of how real development teams work, which will be very useful for my future career in IT.
+Overall, this week helped me improve both my technical and teamwork skills. It gave me a clear idea of how real development teams work, which will help me in my future career.
+
+
+
+
